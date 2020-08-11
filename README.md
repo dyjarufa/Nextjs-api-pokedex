@@ -9,7 +9,7 @@
 
 </h1>
 
-## :camera:
+## :camera: Screenshots
 
 
 <p>
@@ -32,7 +32,7 @@
 
 
 
-## 💻 Projeto
+## 💻 Project
 
 App using initial concepts about server side rendering with Next.js, and deploy front-end by Vercel  service.
 
